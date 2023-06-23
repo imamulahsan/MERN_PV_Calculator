@@ -1,9 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Layout from './components/Layout/Layout';
 
 function App() {
   return (
-    <h1>This is frontend</h1>
+    <Layout>
+      
+    </Layout>
   );
 }
 
